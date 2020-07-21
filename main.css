@@ -1,0 +1,43 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    width:100%;
+    height:1200px;
+
+}
+
+#package {
+    margin:0 auto;
+    display:table;
+    margin-top:160px;
+}
+
+input {
+    padding:12px;
+    width:480px;
+    border-radius:24px;
+    border: lightgray 1px solid;
+    -webkit-box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.37); 
+box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.37);
+}
+
+#package img {
+    margin:0 auto; 
+    display:table;
+}
+
+#package #buttons {
+    margin:0 auto;
+    display:table;
+}
+
+button {
+    padding:12px;
+    border:none;
+    background-color:#ebebeb;
+    border-radius:3px;
+    margin:24px 12px 0px 12px;
+}
